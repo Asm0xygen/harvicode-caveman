@@ -3,8 +3,9 @@
 > Радикальная экономия токенов. Ноль «воды». Максимальная точность.
 
 [![Harvi Code](https://img.shields.io/badge/Harvi-Code-blue)](https://harvi.pro)
-[![Token Savings](https://img.shields.io/badge/token_savings-~75%25-green)](#token-comparison)
-[![📥 Скачать Harvi 3.0.56 (.vsix)](https://img.shields.io/badge/Harvi-vsix-orange)](https://harvi.pro/harvi-3.0.56.vsix)
+[![VS Code](https://img.shields.io/badge/Harvi-VS_Code-brightgreen?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=KristianShin.harvi-code)
+[![Download Harvi 3.0.56 (.vsix)](https://img.shields.io/badge/Harvi-vsix-orange)](https://harvi.pro/harvi-3.0.56.vsix)
+[![Token Savings](https://img.shields.io/badge/token_savings-~75%25-informational)](#token-comparison)
 
 ---
 

@@ -2,8 +2,9 @@
 
 > Radical token economy. Zero fluff. Maximum precision.
 
-[![Harvi Code](https://img.shields.io/badge/Harvi-Code-blue)](https://harvi.code)
+[![Harvi Code](https://img.shields.io/badge/Harvi-Code-blue)](https://harvi.pro)
 [![Token Savings](https://img.shields.io/badge/token_savings-~75%25-green)](#token-comparison)
+
 
 ---
 

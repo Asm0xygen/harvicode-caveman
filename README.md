@@ -4,7 +4,7 @@
 
 [![Harvi Code](https://img.shields.io/badge/Harvi-Code-blue)](https://harvi.pro)
 [![Token Savings](https://img.shields.io/badge/token_savings-~75%25-green)](#token-comparison)
-[![📥 Скачать Harvi 3.0.56 (.vsix)](https://img.shields.io/badge/Harvi-Code-blue)](https://harvi.pro/harvi-3.0.56.vsix)
+[![📥 Скачать Harvi 3.0.56 (.vsix)](https://img.shields.io/badge/Harvi-Code-vsix-red)](https://harvi.pro/harvi-3.0.56.vsix)
 
 ---
 

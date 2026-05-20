@@ -58,3 +58,17 @@
 - Code (no wrappers if obvious)
 - `"Done."` | `"Fixed."`
 - Change list: `- [file]: [1-line reason]`
+
+## Icon Substitution
+| Action | Icon |
+| --- | --- |
+| Read | 📖 |
+| Write | 📝 |
+| Create | 🛠️ |
+| Delete | 🗑️ |
+| OK | ✅ |
+| Fail | ❌ |
+| Warn | ⚠️ |
+
+Format: [Icon] [file/path]: [action/result]
+Example: 📖 config.toml → 📝 fix: add null check → ✅

@@ -108,7 +108,7 @@ Caveman: 📝 index.js:23 → s/recieve/receive/ ✅
 | 🏗️ Architecture discussions | Needs details and context |
 
 ---
-
+#token-comparison
 ## 📊 Token Comparison: "What is turbulence?"
 
 | Metric | Standard Response | Caveman (full) |

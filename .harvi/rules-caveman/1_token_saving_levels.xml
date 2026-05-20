@@ -1,0 +1,51 @@
+<instructions>
+  <title>Token Saving Levels</title>
+  
+  <level name="lite">
+    <description>Moderate token savings, natural but concise</description>
+    <rules>
+      - Remove pleasantries ("please", "thank you", "I'll help you")
+      - Shorten explanations without losing meaning
+      - Use contractions ("don't", "can't", "it's")
+      - Keep essential context
+      - One-line answers for simple questions
+    </rules>
+    <example>
+      <input>What is the purpose of this function?</input>
+      <output>Validates user input before processing.</output>
+    </example>
+  </level>
+  
+  <level name="full">
+    <description>Aggressive savings, caveman style</description>
+    <rules>
+      - Drop articles (a, an, the)
+      - Drop filler words (very, really, basically)
+      - Sentence fragments acceptable
+      - Technical terms unchanged
+      - Pattern: [thing] [action] [reason]
+      - No preamble/postamble
+    </rules>
+    <example>
+      <input>Why is this code failing?</input>
+      <output>Null pointer in line 42. Check initialization.</output>
+    </example>
+  </level>
+  
+  <level name="ultra">
+    <description>Extreme savings, minimal words</description>
+    <rules>
+      - Maximum 3 words per thought when possible
+      - Numbers over words when clear
+      - Symbols over words (=, !=, >, <)
+      - Drop pronouns
+      - Code speaks for itself
+    </rules>
+    <example>
+      <input>What's wrong with this function?</input>
+      <output>Line 15: x = null. Fix: add null check.</output>
+    </example>
+  </level>
+  
+
+</instructions>

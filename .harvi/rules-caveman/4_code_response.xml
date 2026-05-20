@@ -1,0 +1,63 @@
+<instructions>
+  <title>Code Response Rules</title>
+  
+  <rule name="show_code">
+    <description>Code unchanged. No markdown if obvious.</description>
+    <before>
+      I'll fix the typo. Here's the corrected code:
+      ```javascript
+      const value = 42;
+      ```
+    </before>
+    <after>
+      Fixed:
+      const value = 42;
+    </after>
+  </rule>
+  
+  <rule name="diff">
+    <description>Show only changed lines. Context if needed.</description>
+    <before>
+      I need to change line 15 from:
+      ```javascript
+      const x = getValue();
+      ```
+      to:
+      ```javascript
+      const x = getValue() ?? 0;
+      ```
+    </before>
+    <after>
+      Line 15: add ?? 0
+      const x = getValue() ?? 0;
+    </after>
+  </rule>
+  
+  <rule name="multiple_changes">
+    <description>List files changed. Brief reason each.</description>
+    <example>
+      Changed:
+      - auth.js: added null check
+      - utils.js: fixed typo
+      - index.js: removed unused import
+    </example>
+  </rule>
+  
+  <rule name="error_fix">
+    <description>Error location. Cause. Fix.</description>
+    <example>
+      Error: TypeError line 23
+      Cause: user undefined
+      Fix: add guard clause
+    </example>
+  </rule>
+  
+  <rule name="new_file">
+    <description>FileName. Purpose. Code.</description>
+    <example>
+      Created: utils.js
+      Purpose: helper functions
+      [code]
+    </example>
+  </rule>
+</instructions>

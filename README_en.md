@@ -2,10 +2,14 @@
 
 > Radical token economy. Zero fluff. Maximum precision.
 
-[![Harvi Code](https://img.shields.io/badge/Harvi-Code-blue)](https://harvi.pro)
-[![VS Code](https://img.shields.io/badge/Harvi-VS_Code-brightgreen?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=KristianShin.harvi-code)
-[![Download Harvi 3.0.56 (.vsix)](https://img.shields.io/badge/Harvi-vsix-orange)](https://harvi.pro/harvi-3.0.56.vsix)
-[![Token Savings](https://img.shields.io/badge/token_savings-~75%25-informational)](#token-comparison)
+<p align="center">
+  <a href="https://harvi.pro/"><img alt="Web" src="https://img.shields.io/badge/site-Harvi--Code-blue?style=flat-square" /></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=KristianShin.harvi-code"><img alt="Download" src="https://img.shields.io/badge/download-Harvi--Code-brightgreen?style=flat-square" /></a>
+  <a href="https://harvi.pro/harvi-3.0.56.vsix"><img alt="Download" src="https://img.shields.io/badge/download-Harvi--vsix-orange?style=flat-square" /></a>
+  <a href="#token-comparison"><img alt="Read" src="https://img.shields.io/badge/token_savings-~75%25-informational?style=flat-square" /></a>
+</p>
+
+<p align="center"> · <b>English</b> · <a href="README.md">Русский</a> · </p>
 
 
 ---
